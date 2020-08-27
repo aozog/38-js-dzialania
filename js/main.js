@@ -22,5 +22,5 @@ function kobe(a, o) {
 
 
 
-console.log(kobe(a, o));
+kobe(4, 10);
 
